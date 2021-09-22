@@ -1,0 +1,45 @@
+#heading {
+color: red;
+font-size: 30px;
+font-family: cursive;
+}
+#note { 
+color: gray;
+font-size: 15px;
+}
+#button {
+    font-size: 20px;
+    width:150px;
+    height:30px;
+    text-align: center;
+    font-weight: bolder;
+}
+#container {
+    background-color: lightpink;
+    height:500px;
+}
+#result {
+    color:red;
+    font-family: serif;
+}
+#accuracy {
+    color: darkblue;
+    font-family: serif;
+}
+#name {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   font: 18px;
+   color: black;
+   text-align: center;
+   line-height: 3;
+   text-shadow: 2px 2px #FF0000;
+}
+#header {
+    font-family: cursive;
+    color: peachpuff;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
